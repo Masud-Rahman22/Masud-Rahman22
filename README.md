@@ -1,6 +1,5 @@
-<!-- ## Cover
-<iframe src="https://giphy.com/embed/26DoiqmYcxgFICb3G" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
-<!-- ![The San Juan Mountains are beautiful!](/images//JavaScript%201.jpg "San Juan Mountains") -->
+## Cover
+![The San Juan Mountains are beautiful!](/images//JavaScript%201.jpg "San Juan Mountains")
 ## 👨‍💼Current overview
 
 
@@ -9,6 +8,8 @@
 ### 👯 I'm looking forward to collaborate with - Exciting tech project
 ### 📫 How to reach me - via email
 ### ⚡ Fun fact - When i am not working i watch movies it's my own way to recharge myself and it always works 😉
+
+
 
 ## 👨‍💻Technologies that I know
 
