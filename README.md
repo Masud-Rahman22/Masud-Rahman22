@@ -14,7 +14,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img width='100px' src='/images/React-Dark.svg' />
+    <img width="50px" src='/images/React-Dark.svg' />
+    <img width="50px" src='/images/JavaScript.svg' />
+    <img width="50px" src='/images/NodeJS-Dark.svg' />
   </a>
 </p>
 
