@@ -13,11 +13,16 @@
 ## 👨‍💻Technologies that I know
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img width="50px" src='/images/React-Dark.svg' />
     <img width="50px" src='/images/JavaScript.svg' />
     <img width="50px" src='/images/NodeJS-Dark.svg' />
-  </a>
+    <img width="50px" src='/images/MongoDB.svg' />
+    <img width="50px" src='/images/HTML.svg' />
+    <img width="50px" src='/images/CSS.svg' />
+    <img width="50px" src='/images/C.svg' />
+    <img width="50px" src='/images/CPP.svg' />
+    <img width="50px" src='/images/Firebase-Dark.svg' />
+    <img width="50px" src='/images/TailwindCSS-Dark.svg' />
 </p>
 
 ## ⬇️Current Stats
