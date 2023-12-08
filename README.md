@@ -1,5 +1,8 @@
 ## Cover
-![The San Juan Mountains are beautiful!](/images//JavaScript%201.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/images/JavaScript%201.jpg "San Juan Mountains")
+
+
+
 ## 👨‍💼Current overview
 
 
