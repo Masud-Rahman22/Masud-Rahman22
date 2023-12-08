@@ -1,5 +1,6 @@
-## Cover
-![The San Juan Mountains are beautiful!](/images//JavaScript%201.jpg "San Juan Mountains")
+<!-- ## Cover
+<iframe src="https://giphy.com/embed/26DoiqmYcxgFICb3G" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
+<!-- ![The San Juan Mountains are beautiful!](/images//JavaScript%201.jpg "San Juan Mountains") -->
 ## 👨‍💼Current overview
 
 
@@ -13,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src='/images/JavaScript 1.jpg' />
+    <img src='/images/React-Dark.svg' />
   </a>
 </p>
 
