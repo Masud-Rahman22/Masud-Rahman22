@@ -1,8 +1,6 @@
-### Hi there 👋
 
-# overview
+## Current overview
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning - Next.js, 
@@ -13,4 +11,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## Current Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Masud-Rahman22&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Masud-Rahman22&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1001)](https://git.io/streak-stats)
