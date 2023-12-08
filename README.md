@@ -13,18 +13,19 @@
 ## 👨‍💻Technologies that I know
 
 <p align="center">
-    <div>
+    <div align='center'>
     <img width="50px" src='/images/React-Dark.svg' />
     <img width="50px" src='/images/JavaScript.svg' />
     <img width="50px" src='/images/NodeJS-Dark.svg' />
     <img width="50px" src='/images/MongoDB.svg' /></div>
-    <div>
+    <div align='center'>
     <img width="50px" src='/images/HTML.svg' />
     <img width="50px" src='/images/CSS.svg' />
     <img width="50px" src='/images/C.svg' />
     <img width="50px" src='/images/CPP.svg' /></div>
+    <div align='center'>
     <img width="50px" src='/images/Firebase-Dark.svg' />
-    <img width="50px" src='/images/TailwindCSS-Dark.svg' />
+    <img width="50px" src='/images/TailwindCSS-Dark.svg' /></div>
 </p>
 
 ## ⬇️Current Stats
