@@ -13,7 +13,7 @@
 ## 👨‍💻Technologies that I know
 
 <p align="center">
-    <div align='center'>
+    <div align='center' padding-right:10%>
     <img width="50px" src='/images/React-Dark.svg' />
     <img width="50px" src='/images/JavaScript.svg' />
     <img width="50px" src='/images/NodeJS-Dark.svg' />
