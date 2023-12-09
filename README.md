@@ -51,5 +51,5 @@
 
 
 # About me
-I am Masud Rahman and i am currently studying B.Sc in CSE at Sheikh Burhanudding Post Graduate College. I am currently devoted to improve my skills and  
+I am Masud Rahman and i am currently studying B.Sc in CSE at Sheikh Burhanudding Post Graduate College. I am currently devoted to improve my skills. I am proficient in a diverse range of technologies and tools, allowing me to create innovative solutions and deliver high-quality results. Currently, I am primarily focused on React.js, Node.js and MongoDB. In addition to my technical expertise, I highly value collaboration and teamwork. I thrive in environments where ideas are shared openly, and collaboration fosters innovation. Working alongside multidisciplinary teams is something I truly enjoy.
 
