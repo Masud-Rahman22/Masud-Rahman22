@@ -40,7 +40,7 @@
 
 # ⬇️Current Stats
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Masud-Rahman22&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1001&fire=645B61)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Masud-Rahman22&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masud-Rahman22&theme=blueberry)
 
