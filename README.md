@@ -3,14 +3,14 @@
 
 
 
-## 👨‍💼Current overview
+# 👨‍💼Current overview
 
 
-### 🔭 i'm currently working on - Honing and enhancing my skills in the MERN stack and beyond. Currently focused on sharpening my React.js and node.js skills. Always eager to learn and evolve in the ever-changing tech landscapes
-### 🌱 I am currently learning  -React and sharpening my skills in database. Always eager to learn and stay updated with the latest trends in the MERN stack! 
-### 👯 I'm looking forward to collaborate with - Exciting tech project
-### 📫 How to reach me - via email
-### ⚡ Fun fact - When i am not working i watch movies it's my own way to recharge myself and it always works 😉
+#### 🔭 i'm currently working on - Honing and enhancing my skills in the MERN stack and beyond. Currently focused on sharpening my React.js and node.js skills. Always eager to learn and evolve in the ever-changing tech landscapes
+#### 🌱 I am currently learning  -React and sharpening my skills in database. Always eager to learn and stay updated with the latest trends in the MERN stack! 
+#### 👯 I'm looking forward to collaborate with - Exciting tech project
+#### 📫 How to reach me - via email
+#### ⚡ Fun fact - When i am not working i watch movies it's my own way to recharge myself and it always works 😉
 
 
 
