@@ -44,6 +44,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masud-Rahman22&theme=blueberry)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masud-Rahman22&theme=blueberry&utcOffset=8)
+
 # About me
 I am Masud Rahman and i am currently studying B.Sc in CSE at Sheikh Burhanudding Post Graduate College. I am currently devoted to improve my skills and  
 
