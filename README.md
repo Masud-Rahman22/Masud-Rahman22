@@ -1,4 +1,3 @@
-## Cover
 ![The San Juan Mountains are beautiful!](/images/Blue%20and%20Gray%20Modern%20Minimalist%20Fashion%20Photographer%20Facebook%20Cover.jpg "San Juan Mountains")
 
 
@@ -18,7 +17,6 @@
 <p align='center'>
   <a href="https://twitter.com/MasudRhmn2001"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/masud-rahman-91a499289/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
 </p>
 
 
@@ -44,4 +42,8 @@
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Masud-Rahman22&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1001&fire=645B61)](https://git.io/streak-stats)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masud-Rahman22&theme=blueberry)
+
 # About me
+I am Masud Rahman and i am currently studying B.Sc in CSE at Sheikh Burhanudding Post Graduate College. I am currently devoted to improve my skills and  
+
