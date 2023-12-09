@@ -38,9 +38,11 @@
     <img width="50px" src='/images/TailwindCSS-Dark.svg' /></div>
 </p>
 
-# ⬇️Current Stats
+# 📈Current Stats
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Masud-Rahman22&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
+
+# ⬇️Github Profile Summary
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masud-Rahman22&theme=blueberry)
 
