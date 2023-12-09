@@ -1,5 +1,5 @@
 ## Cover
-![The San Juan Mountains are beautiful!](/ "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/images/Blue%20and%20Gray%20Modern%20Minimalist%20Fashion%20Photographer%20Facebook%20Cover.jpg "San Juan Mountains")
 
 
 
@@ -40,6 +40,8 @@
     <img width="50px" src='/images/TailwindCSS-Dark.svg' /></div>
 </p>
 
-## ⬇️Current Stats
+# ⬇️Current Stats
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Masud-Rahman22&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1001&fire=645B61)](https://git.io/streak-stats)
+
+# About me
