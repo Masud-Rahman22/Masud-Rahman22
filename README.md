@@ -42,9 +42,9 @@
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Masud-Rahman22&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masud-Rahman22&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masud-Rahman22&theme=blueberry) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masud-Rahman22&theme=blueberry&utcOffset=8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masud-Rahman22&theme=blueberry&utcOffset=8)
+
 
 # About me
 I am Masud Rahman and i am currently studying B.Sc in CSE at Sheikh Burhanudding Post Graduate College. I am currently devoted to improve my skills and  
