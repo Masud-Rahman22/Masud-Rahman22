@@ -1,5 +1,5 @@
 ## Cover
-![The San Juan Mountains are beautiful!](/images/JavaScript%201.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/ "San Juan Mountains")
 
 
 
@@ -13,8 +13,16 @@
 #### ⚡ Fun fact - When i am not working i watch movies it's my own way to recharge myself and it always works 😉
 
 
+# 👀Reach Me Out
 
-## 👨‍💻Technologies that I know
+<p align='center'>
+  <a href="https://twitter.com/MasudRhmn2001"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/masud-rahman-91a499289/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+
+# 👨‍💻Technologies that I know
 
 <p align="center">
     <div align='center'>
