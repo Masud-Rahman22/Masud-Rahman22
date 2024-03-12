@@ -43,11 +43,11 @@
 
 # ⬇️Github Profile Summary
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masud-Rahman22&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masud-Rahman22&theme=blueberry&card_width=1000)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masud-Rahman22&theme=blueberry) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masud-Rahman22&theme=blueberry&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masud-Rahman22&theme=blueberry&card_width=1000) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masud-Rahman22&theme=blueberry&utcOffset=8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masud-Rahman22&theme=blueberry) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Masud-Rahman22&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masud-Rahman22&theme=blueberry&card_width=1000) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Masud-Rahman22&theme=blueberry)
 
 
 
